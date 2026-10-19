@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-cupertino",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "City of Cupertino GIS — Cupertino, California open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1fe76593c5d468de458340c2ebe16684aa04e6128f883c75ea3b7a1bb49d7b55",
-    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
+    "sourceHash": "v1-45d3d172f16d5f803176398c5d59b6ebf53030b1fa3c2d880a71c574d385c544",
+    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
   }
 }
